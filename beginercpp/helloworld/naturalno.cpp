@@ -3,11 +3,11 @@ using namespace std;
 int main()
 {
     int a;
-    cout << "enter no";
+    cout << "enter no:";
     cin >>a;
     for (int i = 1; i < a; i++)
     {
-       cout<<a<<endl;
+       cout<<i<<endl;
     }
     
 }
