@@ -7,7 +7,7 @@ int main()
     cin >>a;
     for (int i = 1; i < a; i++)
     {
-       cout<<a<<endl;
+       cout<<i<<endl;
     }
     
 }
