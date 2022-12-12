@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"First pf assignment is done ";
+    int a;
+    // cout<<"First pf assignment is done ";
+    cout<<"enter number";
+    cin>>a;
+    cout<<a;
     return 0;
 }
