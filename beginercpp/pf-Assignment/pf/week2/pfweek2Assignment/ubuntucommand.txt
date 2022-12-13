@@ -1,0 +1,7 @@
+Compile hello.cc with c++:
+
+$c++ hello.cc -o hello
+Execute it:
+
+$./hello
+Here the ./ means the exe file is under the current dir.
